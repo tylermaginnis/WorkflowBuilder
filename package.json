@@ -1,0 +1,16 @@
+{
+  "name": "workflowbuilder",
+  "version": "1.0.0",
+  "description": "Manages wo\u001b[3~\u001b[3~\u001b[3~WorkFlows in a distributed system\u001b",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "etcd3": "^1.1.2",
+    "express": "^4.17.1",
+    "pg": "^8.11.3"
+  }
+}
